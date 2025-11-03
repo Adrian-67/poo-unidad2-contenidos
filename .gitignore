@@ -1,0 +1,32 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Archivos de Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Archivos de IDE
+.idea/
+*.iml
+*.iws
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+build/
+target/
